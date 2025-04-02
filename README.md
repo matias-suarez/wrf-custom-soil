@@ -1,5 +1,7 @@
 # Custom Soil Property Modifier for WRF Geogrid Files
 
+![banner](expected_output.png)
+
 **Authors:** Juan Sanchez & Matias Suarez  
 **Context:** PhD Programme — WRF Custom Preprocessing Tools  
 **File:** `mod_soil_properties.ipynb`  
